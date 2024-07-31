@@ -37,7 +37,8 @@ def print_intro():
     Description: Extract JAKIM's prayer times for the whole Malaysia's zone to CSV format
     Created by: TJ Sharby
     Github: https://github.com/tajulsharby/jakim-waktu-solat-api-extractor
-    If you like, please treat me a coffee ;-)
+    If you like, please treat me a coffee via Touch N Go Digital Wallet QR code: 
+    https://github.com/tajulsharby/treat-me-a-coffee-tng?tab=readme-ov-file 
     ==========================================================================================
     """
     print(intro_text)

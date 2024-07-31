@@ -10,7 +10,8 @@ This script extracts prayer times data from JAKIM's API for all Malaysian zones 
 ## Github
 - [https://github.com/tajulsharby/jakim-waktu-solat-api-extractor](https://github.com/tajulsharby/jakim-waktu-solat-api-extractor)
 
-## If you like, please treat me a coffee ;-)
+## If you like, please treat me a coffee via Touch N Go Digital Wallet QR code: 
+- [https://github.com/tajulsharby/treat-me-a-coffee-tng?tab=readme-ov-file](https://github.com/tajulsharby/treat-me-a-coffee-tng?tab=readme-ov-file)
 
 ## Requirements
 
